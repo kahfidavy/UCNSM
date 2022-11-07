@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3ef80c47-2c09-4563-9a5b-946b364c278a" name="rselizabeth.com" url="http://ftp.rselizabeth.com">
+        <fileTransfer host="ftp.rselizabeth.com" port="21" rootFolder="/antrean">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
